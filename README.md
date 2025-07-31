@@ -8,7 +8,7 @@ You can see the **raw and cleaned dataset**, as well as the **dashboard**, on th
 
 This dataset was taken from [Kaggle](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=discounts.csv)
 
-> This raw dataset contains **6 CSV files** with over **5 million rows** in total.
+> This raw dataset contains **6 CSV files** with over **5 million rows** in total.  
 > Tools used: Python & Microsoft Power BI
 ---
 
