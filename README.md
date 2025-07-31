@@ -73,6 +73,6 @@ In this project, I focus on the **USA market** to answer a set of business quest
    the **New Year Winter Sale** runs for 10 days but still shows low revenue, which is worth investigating.  
    The store can consider optimizing product selections or offering bundled deals to boost performance during this period.
 
-5. Because sales peak in **Q4** and lowest in **Q1**, the store can use **Q1 for inventory resets and planning**.
+5. Because sales peak in **Q4** and lowest in **Q1**, the stores can use **Q1 for inventory resets and planning**.
 
 ---
