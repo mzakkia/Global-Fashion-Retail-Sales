@@ -1,7 +1,7 @@
 ## Data Cleaning & Dataset Info
 
 You can see the process of the data cleaning on **Google Colab** on this repository:  
-**Global_Fashion_Retail_Sales.ipynb**
+File Name: **Global_Fashion_Retail_Sales.ipynb**
 
 You can see the **raw and cleaned dataset**, as well as the **dashboard**, on this link:  
 [📁 Click here](https://drive.google.com/drive/folders/1uNBnY0RjbpzSwEk4Q_a_l5q_69Colxlz?usp=sharing)
