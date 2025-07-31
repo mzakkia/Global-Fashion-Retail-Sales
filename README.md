@@ -65,12 +65,14 @@ In this project, I focus on the **USA market** to answer a set of business quest
    - Tailor campaigns and product lines to younger, female audiences  
    - Explore TikTok/Instagram-focused marketing and Gen-Z style trends
 
-3. Invest more in high-performing locations (NY, LA) with **additional stock and campaigns**.  
-   Furthermore, **audit lower-performing stores** to identify operational or demographic issues.
+3. Invest more in high-performing locations (New York, Los Angeles) with **additional stock and campaigns**.  
+   Furthermore, **audit lower-performing stores** (Phoenix, Chicago) to identify operational or demographic issues.
 
-4. Continue prioritizing the **Holiday, Fall, and Spring campaigns** because they generate high revenue.  
-   **Reinvestigate Black Friday strategies**: consider longer discount windows, optimize product selections, or provide bundling offers.
+4. Continue prioritizing the **Holiday, Fall, and Early campaigns** because they generate high revenue.  
+   **Black Friday Sale** is the lowest but it's still understandable since it only took 1 day. However,
+   the **New Year Winter Sale** runs for 10 days but still shows low revenue, which is worth investigating,
+   the store can consider optimizing product selections or offering bundled deals to boost performance during this period.
 
-5. Because sales peak in **Q4** and lowest in **Q1**, the store can use **Q1 for inventory resets and planning**.
+6. Because sales peak in **Q4** and lowest in **Q1**, the store can use **Q1 for inventory resets and planning**.
 
 ---
