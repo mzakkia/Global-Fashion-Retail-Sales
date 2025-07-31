@@ -1,7 +1,7 @@
-You can see the process of the data cleaning on this repository **Global_Fashion_Retail_Sales.ipynb**
-You can see the raw and clean dataset as well as the dashboard on this link [click here](https://drive.google.com/drive/folders/1uNBnY0RjbpzSwEk4Q_a_l5q_69Colxlz?usp=sharing)
-This dataset i took from [kaggle](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=discounts.csv)
-This raw dataset contains **6 CSV Files** with in total **over 5 Million Rows**.
+You can see the process of the data cleaning on this repository **Global_Fashion_Retail_Sales.ipynb**  
+You can see the raw and clean dataset as well as the dashboard on this link [click here](https://drive.google.com/drive/folders/1uNBnY0RjbpzSwEk4Q_a_l5q_69Colxlz?usp=sharing)  
+This dataset i took from [kaggle](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=discounts.csv)  
+This raw dataset contains **6 CSV Files** with in total **over 5 Million Rows**.  
 
 This project is a kaggle dataset project i made as a personal portfolio, on this project i'll be focusing on the USA Market to answer
 a set of questions below:
