@@ -15,7 +15,7 @@ This dataset was taken from [Kaggle](https://www.kaggle.com/datasets/ricgomes/gl
 ## Project Overview
 
 This project is a Kaggle dataset project I made as a personal portfolio.  
-In this project, I focus on the **USA market** to answer a set of business questions below:
+In this project, I focus on the **USA market** to answer a set of business questions below.
 
 ---
 
