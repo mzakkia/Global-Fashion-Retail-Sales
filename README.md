@@ -1,6 +1,6 @@
 ## Data Cleaning & Dataset Info
 
-You can see the process of the data cleaning on this repository:  
+You can see the process of the data cleaning on **Google Colab** on this repository:  
 **Global_Fashion_Retail_Sales.ipynb**
 
 You can see the **raw and cleaned dataset**, as well as the **dashboard**, on this link:  
@@ -9,7 +9,7 @@ You can see the **raw and cleaned dataset**, as well as the **dashboard**, on th
 This dataset was taken from [Kaggle](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=discounts.csv)
 
 > This raw dataset contains **6 CSV files** with over **5 million rows** in total.
-
+> Tools used: Python & Microsoft Power BI
 ---
 
 ## Project Overview
