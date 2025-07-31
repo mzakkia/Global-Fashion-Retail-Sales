@@ -69,10 +69,10 @@ In this project, I focus on the **USA market** to answer a set of business quest
    Furthermore, **audit lower-performing stores** (Phoenix, Chicago) to identify operational or demographic issues.
 
 4. Continue prioritizing the **Holiday, Fall, and Early campaigns** because they generate high revenue.  
-   **Black Friday Sale** is the lowest but it's still understandable since it only took 1 day. However,
-   the **New Year Winter Sale** runs for 10 days but still shows low revenue, which is worth investigating,
-   the store can consider optimizing product selections or offering bundled deals to boost performance during this period.
+   **Black Friday Sale** is the lowest but it's still understandable since it only took 1 day. However,  
+   the **New Year Winter Sale** runs for 10 days but still shows low revenue, which is worth investigating.  
+   The store can consider optimizing product selections or offering bundled deals to boost performance during this period.
 
-6. Because sales peak in **Q4** and lowest in **Q1**, the store can use **Q1 for inventory resets and planning**.
+5. Because sales peak in **Q4** and lowest in **Q1**, the store can use **Q1 for inventory resets and planning**.
 
 ---
