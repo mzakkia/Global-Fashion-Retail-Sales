@@ -71,6 +71,6 @@ In this project, I focus on the **USA market** to answer a set of business quest
 4. Continue prioritizing the **Holiday, Fall, and Spring campaigns** because they generate high revenue.  
    **Reinvestigate Black Friday strategies**: consider longer discount windows, optimize product selections, or provide bundling offers.
 
-5. Because sales peak in **Q4** and dip in **Q1**, the store can use **Q1 for inventory resets, planning, and lighter promotions**.
+5. Because sales peak in **Q4** and lowest in **Q1**, the store can use **Q1 for inventory resets and planning**.
 
 ---
