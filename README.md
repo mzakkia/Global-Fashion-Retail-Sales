@@ -1,4 +1,4 @@
-## 🧼 Data Cleaning & Dataset Info
+## Data Cleaning & Dataset Info
 
 You can see the process of the data cleaning on this repository:  
 **Global_Fashion_Retail_Sales.ipynb**
@@ -12,14 +12,14 @@ This dataset was taken from [Kaggle](https://www.kaggle.com/datasets/ricgomes/gl
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a Kaggle dataset project I made as a personal portfolio.  
 In this project, I focus on the **USA market** to answer a set of business questions below:
 
 ---
 
-## ❓ Business Questions
+## Business Questions
 
 ### 1. Overall Market Performance
 - What are the total number of transactions, total sales, returns, and net revenue between January 2023 and March 2025?  
@@ -57,7 +57,7 @@ In this project, I focus on the **USA market** to answer a set of business quest
 
 ---
 
-## 💡 Recommendations (Based on Dashboard Insights)
+## Recommendations (Based on Dashboard Insights)
 
 1. Focus **marketing efforts** and **inventory buildup for Q4** (especially Oct–Dec) where customer purchasing behavior is strongest.
 
